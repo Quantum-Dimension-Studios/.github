@@ -40,6 +40,7 @@ A roguelike RPG inspired by Deepwoken, Elden Ring, and classic roguelikes. Explo
 
 - **João Rocha**: Developer
 - **Tiago Silva**: Developer
+- **Pedro Barge**: Tester
 
 Together, we are working to turn our shared dream into reality.
 
