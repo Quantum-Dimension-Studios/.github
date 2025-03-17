@@ -55,7 +55,7 @@ Stay updated with our latest news and progress:
 
 ## 💬 Contact Us
 
-Have questions, feedback, or just want to say hi? Reach out to us at **[quantum.dimension.studios@email.com](mailto:quantum.dimension.studios@email.com)**.
+Have questions, feedback, or just want to say hi? Reach out to us at **[quantum.dimension.studios@email.com](mailto:quantum.dimension.studios@gmail.com)**.
 
 ---
 
